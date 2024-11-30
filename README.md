@@ -1,1 +1,1 @@
-# python_microsoft_copilot
+# PythonでMicrosoftのCopilotを利用する方法をまとめている
